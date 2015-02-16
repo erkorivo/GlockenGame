@@ -1,2 +1,4 @@
-# GlockenGame
-Android memory game
+Glockenspiel Games
+===
+
+empty stub app to begin project
