@@ -1,0 +1,1606 @@
+﻿FRAMEWORK
+
+
+Level
+	Mode I - Individual Echo
+	Mode 2 - Peer to Peer Echo
+	OPEN EXPLORATION
+	Open
+	Open
+	PRIMER
+	High/Low using C octave
+	2 note
+	BEGINNER
+	Add D (C, D) 
+	3 note
+	INTERMEDIATE
+	Add E (C, D, E)
+	4 note
+	FOLK SONG INTRO
+	Hot Cross Buns (Maj & min)
+	4 note
+	ADVANCED
+	Add F (C, D, E, F)
+	5 note
+	ADVANCED II
+	Add G (C, D, E, F, G)
+	6 note
+	FOLK SONG II
+	Mary Had a Little Lamb
+(var. on Hot Cross Buns)
+	6 note
+	FOLK SONG in CONTEXT
+	Hot Cross Buns and Mary Had a Little Lamb in Context of a rhythmic/melodic groove
+	7 note
+	
+
+
+
+Notes:
+1. We want the focus of this demo version to be on auditory memory.  Let’s meet to discuss the potential options of including auditory and visual cues, while still focusing on auditory.
+2. Mode I is what we have discussed so far.  The app plays a sequence and the learner echos that pattern.  Questions: how does the learner know if they were successful...how does the learn self-assess?[a][b][c][d]
+3. Mode II is something new that Carroll and I came up with related to two importance aspects: (1) the learner needs to experience the creation of their own frameworks and (2) the XPrize strongly encourages peer-to-peer communication as part of the gamified approach.  In Mode II, one learner can send their own sequence to another learner as a challenge.  The recipient attempts to echo that sequence and then has the opportunity to send their own sequence back to their fellow learner.[e][f]
+4. We need to decide if we want to have the split screen with one screen being the glockenspiel and the other half being a musical staff with the musical notation lighting up while the glockenspiel is being played (i.e., even in open exploration mode, learner sees where the notes on the glockenspiel are on the musical staff… multimodal learning, contextual learning)
+5. We need to decide if we are going to add the additional component of dynamics (how loud or soft certain notes are played in the pattern).
+6. As Erik has suggested, we think that each area in Mode I can be randomized.  At first Carroll and I were concerned that certain basic patterns would need to be experienced first, but upon thinking about this, we like the idea of a random and ever-changing sequence (within each level; the levels are sequenced) because it speaks to the importance of the learner creating their own framework and experiencing the learning from different perspectives.
+7. The variables which are at the foundation of our decisions as to what kinds of sequences go in which area will be based on:   
+   1. length of pattern
+   2. type of notes
+   3. melodic complexity
+   4. rhythmic complexity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SEQUENCE BUILD OUT FOR EACH SECTION (Mode I)
+
+
+OPEN EXPLORATION
+
+
+Learner can explore with any set of notes
+
+
+Learner should be able to record themselves and save
+
+
+Question:
+Can learner use this in mode II?  Our current thinking is not at first, but perhaps later once some skill has been developed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Values can be 1. all quarter notes 2. all eighth notes 3. alternating quarter/eighth
+No need for any dynamic (volume) variance yet?
+
+
+PRIMER (Low C = C; High C = C1;)
+1, 1                        1, 1, 1, 1, 1 (cont)
+C, C                        C, C1, C1, C1, C
+C1, C1                        C1, C, C, C, C1        
+C, C1                        C, C1, C, C, C        
+C1, C                        C1, C, C1, C1, C1
+
+
+1, 1, 1
+C, C, C
+C1, C1, C1
+C, C, C1
+C1, C1, C
+C, C1, C
+C1, C, C1
+
+
+1, 1, 1, 1
+C, C, C, C,
+C1, C1, C1, C1
+C, C, C1, C1
+C1, C1, C, C
+C, C1, C1, C
+C1, C, C, C1
+C, C, C, C1
+C1, C1, C1, C
+
+
+1, 1, 1, 1, 1
+C, C, C, C, C                        
+C1, C1, C1, C1, C1
+C, C, C, C, C1
+C1, C1, C1, C1, C
+C, C, C, C1, C1
+C1, C1, C1, C, C
+C, C, C1, C1, C1
+C1, C1, C, C, C
+C, C1, C1, C1, C1
+C1, C, C, C, C
+C, C1, C, C1, C
+C1, C, C1, C, C1
+C, C1, C1, C, C
+C1, C, C, C1, C1
+BEGINNER - C, D
+1, 1                        1, 1, 2
+C, D                        D, C, D, D
+D, C                        C, D, C, C
+
+
+1, 2                        3, 1                
+C, D, D                D, D, D, C
+D, C, C                C, C, C, D
+
+
+1, 1, 1                        1, 2, 1
+C, D, C                D, C, C, C1
+D, C, D                D, C1, C1, C
+D, C, C1
+C, D, C1
+C1, C, D
+C1, D, C
+
+
+2, 2                          
+C, C, D, D
+D, D, C, C
+
+
+1, 2, 1
+C, D, D, C
+D, C, C, D
+
+
+1, 1, 1, 1                2, 1, 1
+C, D, C, D                C1, C1, C, D        
+D, C, D, C                C1, C1, D, C
+C, D, C, C1                C, C, C1, D
+D, C, D, C1                C, C, D, C1
+C, C1, C, D                D, D, C, C1
+C, C1, D, C                D, D, C1, C
+C1, C, C1, D
+C1, C, D, C
+
+
+1, 3
+D, C, C, C
+C, D, D, D
+
+
+INTERMEDIATE - C, D, E
+C, D, E (1, 1, 1)                C, D, D, D, E        (1, 3, 1)        E, D, C, D, D (1, 1, 1, 2 cont.)
+E, D, C                        C, E, E, E, D                        E, D, C, E, E
+C, E, D                        D, E, E, E, C                        E, C, D, C, C
+D, C, E                        D, C, C, C, E                        E, C, D, D, D
+E, C, D                        E, C, C, C, D                        E, C, D, E, E
+D, E, C                        E, D, D, D, C                        E, C, D, E, E
+                                                                D, E, C, C, C
+C, D,D, E (1, 2, 1)                C, C, D, E, E        (2, 1, 2)        D, E, C, D, D
+E, D, D, C                        C, C, E, D, D                        D, E, C, E, E
+D, C, C, E                        D, D, C, E, E                        D, C, E, C, C
+E, C, C, D                        D, D, E, C, C                        D, C, E, D, D
+C, E, E, D                        E, E, C, D, D                        D, C, E, E, E
+D, E, E, C                        E, E, D, C, C                        D, C, E, E, E
+
+
+D, D, E, C (2, 1, 1)                C, C, C, D, E        (3, 1, 1)        C, D, C, E, C (1, 1, 1, 1, 1)
+D, D, C, E                        C, C, C, E, D                        C, D, C, C, E
+E, E, D, C                        D, D, D, C, E                        C, E, D, E, C
+E, E, C, D                        D, D, D, E, C                        C, E, D, C, E        
+C, C, D, E                        E, E, E, D, C                        D, C, D, E, C
+C, C, E, D                        E, E, E, C, D                        D, C, D, C, E
+D, E, D, E, C
+C, D, E, C (1, 1, 1, 1,)        C, D, D, E, E        (1, 2, 2)        D, E, D, C, E
+C, E, D, C                        C, E, E, D, D                        E, C, E, D, C
+C, D, C, E                        D, C, C, E, E                        E, C, E, C, D
+D, C, D, E                        D, E, E, C, C                        E, C, D, E, C
+C, E, C, D                        E, C, C, D, D                        E, C, D, C, E
+E, C, E, D                        E, D, D, C, C
+E, D, E, C
+E, C, E, D                        C, D, E, C, C        (1, 1, 1, 2)        E, D, C, C, C (1, 1, 3)
+                                C, E, D, C, C                        E, D, E, E, E
+C, C, D, D, E        (2, 2, 1)        C, D, E, D, D                        D, C, E, E, E
+C, C, E, E, D                        C, E, D, D, D                        D, C, D, D, D
+D, D, E, E, C                        C, D, E, E, E                        C, D, E, E, E
+D, D, C, C, E                        C, E, D, E, E                        C, D, C, C, C
+E, E, C, C, D                        
+E, E, D, D, C
+
+
+to next column                to next column                do we add the C1 permutation?
+FOLK SONG INTRO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADVANCED - C, D, E, F
+1, 1, 1, 1                1, 2, 1, 1 (cont.)        1, 1, 1, 2 (cont.)        2, 1, 1, 1 (cont.)
+C, D, E, F                E, F, F, C, D                C, D, F, E, E                E, E, F, C, D
+C, D, F, E                E, F, F, D, C                C, F, D, E, E                E, E, F, D, C
+D, E, F, C                                        D, F, C, E, E                F, F, C, D, E
+E, F, C, D                1, 1, 2, 1                D, C, F, E, E                F, F, C, E, D
+E, F, D, C                C, D, E, E, F                F, C, D, E, E                F, F, D, E, C
+F, C, D, E                C, F, E, E, D                F, D, C, E, E                F, F, D, C, E
+F, E, D, C                D, C, E, E, F                C, F, E, D, D                F, F, E, C, D
+C, E, D, F                D, F, E, E, C                C, E, F, D, D                F, F, E, D, C
+C, E, F, D                F, C, E, E, D                E, F, C, D, D
+F, D, E, C                F, D, E, E, C                E, C, F, D, D                1, 1, 3, 1
+C, F, E, D                C, D, F, F, E                F, E, C, D, D                C, D, E, E, E, F
+D, F, E, C                C, E, F, F, D                F, C, E, D, D                C, F, E, E, E, D
+C, F, D, E                D, C, F, F, E                F, E, D, C, C                D, C, E, E, E, F
+C, F, E, D                D, E, F, F, C                F, D, E, C, C                D, F, E, E, E, C
+E, D, F, C                E, C, F, F, D                D, E, F, C, C                F, C, E, E, E, D
+E, D, C, F                E, D, F, F, C                D, F, E, C, C                F, D, E, E, E, C
+E, C, D, F                C, F, D, D, E                E, F, D, C, C                C, E, D, D, D, F
+E, C, F, D                C, E, D, D, F                E, D, F, C, C                C, F, D, D, D, E
+                        E, C, D, D, F                                        E, F, D, D, D, C
+1, 2, 1, 1                E, F, D, D, C                2, 1, 1, 1                E, C, D, D, D, F
+C, D, D, E, F                F, E, D, D, C                C, C, D, E, F                F, C, D, D, D, E
+C, D, D, F, E                F, C, D, D, E                C, C, D, F, E                F, E, D, D, D, C
+C, E, E, D, F                D, F, C, C, E                C, C, E, D, F                F, E, C, C, C, D
+C, E, E, F, D                D, E, C, C, F                C, C, E, F, D                F, D, C, C, C, E
+C, F, F, E, D                F, E, C, C, D                C, C, F, E, D                E, D, C, C, C, F
+C, F, F, D, E                F, D, C, C, E                C, C, F, D, E                E, F, C, C, C, D
+D, C, C, E, F                E, D, C, C, F                D, D, C, F, E                D, E, C, C, C, F
+D, C, C, F, E                E, F, C, C, D                D, D, C, E, F                D, F, C, C, C, E
+D, E, E, C, F                                        D, D, F, E, C
+D, E, E, F, C                1, 1, 1, 2                D, D, F, C, E
+D, F, F, E, C                C, D, E, F, F                D, D, E, F, C
+D, F, F, C, E                C, E, D, F, F                D, D, E, C, F
+E, C, C, F, D                D, E, C, F, F                E, E, C, D, F
+E, C, C, D, F                D, C, E, F, F                E, E, C, F, D
+E, D, D, C, F                E, D, C, F, F                E, E, D, F, C
+E, D, D, F, C                E, C, D, F, F                E, E, D, C, F
+
+
+1, 3, 1, 1                        1, 1, 1, 3 (cont)        1, 2, 2, 1
+C, D, D, D, E, F                C, E, F, D, D, D        C, D, D, E, E, F
+C, D, D, D, F, E                C, F, E, D, D, D        F, D, D, E, E, C
+F, D, D, D, C, E                E, F, C, D, D, D        E, D, D, C, C, F
+F, D, D, D, E, C                E, C, F, D, D, D        F, D, D, C, C, E
+E, D, D, D, F, C                F, C, E, D, D, D        C, D, D, F, F, E
+E, D, D, D, C, F                F, E, C, D, D, D        E, D, D, F, F, C
+D, C, C, C, F, E                F, E, D, C, C, C        D, C, C, E, E, F
+D, C, C, C, E, F                F, D, E, C, C, C        F, C, C, E, E, D
+E, C, C, C, F, D                E, D, F, C, C, C        F, C, C, D, D, E
+E, C, C, C, D, F                E, F, D, C, C, C        E, C, C, D, D, F
+F, C, C, C, E, D                D, F, E, C, C, C        E, C, C, F, F, D
+F, C, C, C, D, E                D, F, E, C, C, C        D, C, C, F, F, E
+F, E, E, E, C, D                                        C, E, E, D, D, F                
+F, E, E, E, D, C                3, 1, 1, 1                F, E, E, D, D, C
+C, E, E, E, F, D                C, C, C, D, E, F        F, E, E, C, C, D
+C, E, E, E, D, F                C, C, C, D, F, E        D, E, E, C, C, F
+D, E, E, E, F, C                C, C, C, E, D, F        D, E, E, F, F, C
+D, E, E, E, C, F                C, C, C, E, F, D        C, E, E, F, F, D
+D, F, F, F, C, E                C, C, C, F, E, D        C, F, F, E, E, D
+D, F, F, F, E, C                C, C, C, F, D, E        D, F, F, E, E, C
+E, F, F, F, D, C                D, D, D, C, F, E        C, F, F, D, D, E
+E, F, F, F, C, D                D, D, D, C, E, F        E, F, F, D, D, C
+C, F, F, F, D, E                D, D, D, E, C, F        E, F, F, C, C, D
+C, F, F, F, E, D                D, D, D, E, F, C        D, F, F, C, C, E
+                                D, D, D, F, C, E
+1, 1, 1, 3                        D, D, D, F, E, C        1, 1, 2, 2
+C, D, E, F, F, F                E, E, E, C, D, F        C, D, E, E, F, F
+C, E, D, F, F, F                E, E, E, C, F, D        D, C, E, E, F, F
+D, E, C, F, F, F                E, E, E, D, C, F        F, C, E, E, D, D
+D, C, E, F, F, F                E, E, E, D, F, C        C, F, E, E, D, D
+E, D, C, F, F, F                E, E, E, F, D, C        D, F, E, E, C, C
+E, C, D, F, F, F                E, E, E, F, C, D        F, D, E, E, C, C
+C, D, F, E, E, E                F, F, F, E, D, C        C, D, F, F, E, E
+C, F, D, E, E, E                F, F, F, E, C, D        D, C, F, F, E, E
+D, C, F, E, E, E                F, F, F, D, E, C        C, E, F, F, D, D
+D, F, C, E, E, E                F, F, F, D, C, E        E, C, F, F, D, D
+F, C, D, E, E, E                F, F, F, C, E, D        E, D, F, F, C, C
+F, D, C, E, E, E                F, F, F, C, D, E        D, E, F, F, C, C
+1, 1, 2, 2 (cont)                1, 2, 1, 2
+C, E, D, D, F, F                C, D, D, E, F, F
+E, C, D, D, F, F                E, D, D, C, F, F
+C, F, D, D, E, E                C, D, D, F, E, E
+F, C, D, D, E, E                F, D, D, C, E, E
+E, F, D, D, C, C                F, D, D, E, C, C
+F, E, D, D, C, C                E, D, D, F, C, C
+F, E, C, C, D, D                D, C, C, F, E, E
+E, F, C, C, D, D                F, C, C, D, E, E
+F, D, C, C, E, E                F, C, C, E, D, D
+D, F, C, C, E, E                E, C, C, F, D, D
+D, E, C, C, F, F                E, C, C, D, F, F
+E, D, C, C, F, F                D, C, C, E, F, F
+                                D, E, E, F, C, C
+2, 2, 1, 1                        F, E, E, D, C, C
+C, C, D, D, E, F                F, E, E, C, D, D
+C, C, D, D, F, E                C, E, E, F, D, D
+C, C, E, E, D, F                C, E, E, D, F, F
+C, C, E, E, F, D                D, E, E, C, F, F
+C, C, F, F, E, D                C, F, F, D, E, E
+C, C, F, F, D, E                D, F, F, C, E, E
+D, D, C, C, E, F                C, F, F, E, D, D
+D, D, C, C, F, E                E, F, F, C, D, D
+D, D, E, E, C, F                E, F, F, D, C, C
+D, D, E, E, F, C                D, F, F, E, C, C
+D, D, F, F, C, D
+D, D, F, F, D, C
+E, E, D, D, C, F
+E, E, D, D, F, C
+E, E, C, C, D, F
+E, E, C, C, F, D
+E, E, F, F, C, D
+E, E, F, F, D, C
+F, F, E, E, C, D
+F, F, E, E, D, C
+F, F, D, D, C, E
+F, F, D, D, E, C
+F, F, C, C, D, E
+F, F, C, C, E, D
+ADVANCED II - C, D, E, F, G
+1, 1, 1, 1, 1                1, 2, 1, 1, 1 (cont)        
+C, D, E, F, G                G, D, D, E, C, F        C, E, E, D, F, G        E, F, F, G, C, D
+G, F, E, D, C                                        G, E, E, D, F, C        D, F, F, G, C, E
+D, E, F, G, C                                        C, E, E, F, D, G        E, F, F, C, G, D
+E, F, G, C, D                                        G, E, E, F, D, C        D, F, F, C, G, E
+F, G, C, D, E                                        C, E, E, F, G, D        D, F, F, E, C, G
+G, C, D E, F                                        D, E, E, F, G, C        G, F, F, E, C, D
+C, E, D, F, G                                        C, E, E, G, F, D        D, F, F, C, E, G
+G, E, F, D, C                                        D, E, E, G, F, C        G, F, F, C, E, D
+D, F, E, G, C                                        G, E, E, F, C, D        D, F, F, E, G, C
+E, G, F, D, C                                        D, E, E, F, C, G        C, F, F, E, G, D
+F, D, C, E, G                                        G, E, E, C, F, D        D, F, F, G, E, C
+G, E, D, F, C                                        D, E, E, C, F, G        C, F, F, G, E, D
+                                                D, E, E, C, G, F
+1, 2, 1, 1, 1                D, C, C, E, F, G        F, E, E, C, G, D        C, G, G, D, E, F
+C, D, D, E, F, G        G, C, C, E, F, D        D, E, E, G, C, F        F, G, G, D, E, C
+G, D, D, E, F, C        D, C, C, F, E, G        F, E, E, G, C, D        C, G, G, E, D, F
+C, D, D, F, E, G        G, C, C, F, E, D        F, E, E, C, D, G        F, G, G, E, D, C
+G, D, D, F, E, C        D, C, C, F, G, E        G, E, E, C, D, F        C, G, G, D, F, E
+C, D, D, F, G, E        E, C, C, F, G, D        F, E, E, D, C, G        E, G, G, D, F, C
+E, D, D, F, G, C        D, C, C, G, F, E        G, E, E, D, C, F        C, G, G, F, D, E
+C, D, D, G, F, E        E, C, C, G, F, D        F, E, E, D, G, C        E, G, G, F, D, C
+E, D, D, G, F, C        E, C, C, F, D, G        C, E, E, D, G, F        E, G, G, D, C, F
+E, D, D, F, C, G        G, C, C, F, D, E        F, E, E, G, D, C        F, G, G, D, C, E
+G, D, D, F, C, E        E, C, C, D, F, G        C, E, E, G, D, F        E, G, G, C, D, F
+E, D, D, C, F, G        G, C, C, D, F, E                                F, G, G, C, D, E
+G, D, D, C, F, E        F, C, C, E, G, D        C, F, F, D, E, G        C, G, G, F, E, D
+C, D, D, E, G, F        D, C, C, E, G, F        G, F, F, D, E, C        D, G, G, F, E, C
+F, D, D, E, G, C        F, C, C, G, E, D        C, F, F, E, D, G        C, G, G, E, F, D
+C, D, D, G, E, F        D, C, C, G, E, F        G, F, F, E, D, C        D, G, G, E, F, C
+F, D, D, G, E, C        F, C, C, E, D, G        C, F, F, D, G, E        D, G, G, F, C, E
+F, D, D, G, C, E        G, C, C, E, D, F        E, F, F, D, G, C        E, G, G, F, C, D
+E, D, D, G, C, F        F, C, C, D, E, G        C, F, F, G, D, E        D, G, G, C, F, E
+F, D, D, C, G, E        G, C, C, D, E, F        E, F, F, G, D, C        E, G, G, C, F, D
+E, D, D, C, G, F        E, C, C, D, G, F        G, F, F, D, C, E        D, G, G, E, C, F
+F, D, D, C, E, G        F, C, C, D, G, E        E, F, F, D, C, G        F, G, G, E, C, D
+G, D, D, C, E, G        E, C, C, G, D, F        G, F, F, C, D, E        D, G, G, C, E, F
+F, D, D, E, C, G        F, C, C, G, D, E            E, F, F, C, D, G        F, G, G, C, E, D
+1, 1, 2, 1, 1
+C, D, E, E, F, G        C, E, D, D, F, G        C, D, F, F, E, G        C, D, G, G, F, E        D, E, C, C, F, G
+C, D, E, E, G, F        C, E, D, D, G, F        C, D, F, F, G, E        C, D, G, G, E, F        D, E, C, C, G, F
+C, F, E, E, D, G        C, F, D, D, E, G        C, E, F, F, D, G        C, F, G, G, D, F        D, F, C, C, E, G
+C, F, E, E, G, D        C, F, D, D, G, E        C, E, F, F, G, D        C, F, G, G, F, D        D, F, C, C, G, E
+C, G, E, E, D, F        C, G, D, D, F, E        C, G, F, F, E, D        C, E, G, G, F, D        D, G, C, C, F, E
+C, G, E, E, F, D        C, G, D, D, E, F        C, G, F, F, D, E        C, E, G, G, D, F        D, G, C, C, E, F
+
+
+D, C, E, E, F, G        E, C, D, D, F, G        E, C, F, F, D, G        D, C, G, G, E, F        E, D, C, C, F, G
+D, C, E, E, G, F        E, C, D, D, F, G        E, C, F, F, G, D        D, C, G, G, F, E        E, D, C, C, G, F
+D, F, E, E, C, G        E, F, D, D, C, G        E, D, F, F, C, G        D, E, G, G, C, F        E, F, C, C, D, G
+D, F, E, E, G, C        E, F, D, D, G, C        E, D, F, F, G, C        D, E, G, G, F, C        E, F, C, C, G, D
+D, G, E, E, F, C        E, G, D, D, C, F        E, G, F, F, D, C        D, F, G, G, C, E        E, G, C, C, F, D
+D, G, E, E, C, F        E, G, D, D, F, C        E, G, F, F, C, D        D, F, G, G, E, C        E, G, C, C, D, F
+
+
+F, C, E, E, D, G        F, C, D, D, E, G        D, C, F, F, E, G        E, C, G, G, F, D        F, E, C, C, D, G
+F, C, E, E, G, D        F, C, D, D, G, E        D, C, F, F, G, E        E, C, G, G, D, F        F, E, C, C, G, D
+F, D, E, E, C, G        F, E, D, D, C, G        D, E, F, F, C, G        E, D, G, G, C, F        F, D, C, C, E, G
+F, D, E, E, G, C        F, E, D, D, G, C        D, E, F, F, G, C        E, D, G, G, F, C        F, D, C, C, G, E
+F, G, E, E, C, D        F, G, D, D, E, C        D, G, F, F, E, C        E, F, G, G, D, C        F, G, C, C, D, E
+F, G, E, E, D, C        F, G, D, D, C, E        D, G, F, F, C, E        E, F, G, G, C, D        F, G, C, C, E, D
+
+
+G, F, E, E, D, C        G, F, D, D, C, E        G, D, F, F, C, E        F, E, G, G, D, C        G, F, C, C, D, E
+G, F, E, E, C, D        G, F, D, D, E, C        G, D, F, F, E, C        F, E, G, G, C, D        G, F, C, C, E, D
+G, C, E, E, F, D        G, E, D, D, C, F        G, C, F, F, D, E        F, D, G, G, E, C        G, D, C, C, F, E
+G, C, E, E, D, F        G, E, D, D, F, C        G, C, F, F, E, D        F, D, G, G, C, E        G, D, C, C, E, F
+G, D, E, E, C, F        G, C, D, D, E, F        G, E, F, F, C, D        F, C, G, G, D, E        G, E, C, C, D, F
+G, D, E, E, F, C        G, C, D, D, F, E        G, E, F, F, D, C        F, C, G, G, E, D        G, E, C, C, F, D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1, 1, 1, 2, 1
+C, D, E, F, F, G        C, D, E, G, G, F        C, D, F, E, E, G        C, E, F, D, D, G        D, E, F, C, C, G
+C, D, G, F, F, E        C, D, F, G, G, E        C, D, G, E, E, F        C, E, G, D, D, F        D, E, G, C, C, F
+C, E, D, F, F, G        C, E, F, G, G, D        C, F, G, E, E, D        C, F, G, D, D, E        D, F, G, C, C, E
+C, E, G, F, F, D        C, E, D, G, G, F        C, F, D, E, E, G        C, F, E, D, D, G        D, F, E, C, C, G
+C, G, E, F, F, D        C, F, D, G, G, E        C, G, D, E, E, F        C, G, F, D, D, E        D, G, E, C, C, F
+C, G, D, F, F, E        C, F, E, G, G, D        C, G, F, E, E, D        C, G, E, D, D, F        D, G, F, C, C, E
+
+
+D, C, E, F, F, G        D, C, E, G, G, F        D, G, F, E, E, C        E, C, G, D, D, F        E, F, G, C, C, D
+D, C, G, F, F, E        D, C, F, G, G, E        D, G, C, E, E, F        E, C, F, D, D, G        E, F, D, C, C, G
+D, E, G, F, F, C        D, E, F, G, G, C        D, F, C, E, E, G        E, F, C, D, D, G        E, G, D, C, C, F
+D, E, C, F, F, G        D, E, C, G, G, F        D, F, G, E, E, C        E, F, G, D, D, C        E, G, F, C, C, D
+D, G, C, F, F, E        D, F, C, G, G, E        D, C, F, E, E, G        E, G, C, D, D, F        E, D, F, C, C, G
+D, G, E, F, F, C        D, F, E, G, G, C        D, C, G, E, E, F        E, G, F, D, D, C        E, D, G, C, C, F
+
+
+E, D, C, F, F, G        E, F, C, G, G, D        F, C, G, E, E, D        F, G, C, D, D, E        F, D, E, C, C, G
+E, D, G, F, F, C        E, F, D, G, G, C        F, C, D, E, E, G        F, G, E, D, D, C        F, D, G, C, C, E
+E, C, G, F, F, D        E, D, C, G, G, F        F, G, D, E, E, C        F, E, C, D, D, G        F, E, G, C, C, D
+E, C, D, F, F, G        E, D, F, G, G, C        F, G, C, E, E, D        F, E, G, D, D, C        F, E, D, C, C, G
+E, G, D, F, F, C        E, C, F, G, G, D        F, D, C, E, E, G        F, C, G, D, D, E        F, G, D, C, C, E
+E, G, C, F, F, D        E, C, D, G, G, F        F, D, G, E, E, C        F, C, E, D, D, G        F, G, E, C, C, D
+
+
+G, C, D, F, F, E        F, C, D, G, G, E        G, D, C, E, E, F        G, C, E, D, D, F        G, D, E, C, C, F
+G, C, E, F, F, D        F, C, E, G, G, D        G, D, F, E, E, C        G, C, F, D, D, E        G, D, F, C, C, E
+G, D, E, F, F, C        F, D, E, G, G, C        G, C, F, E, E, D        G, E, F, D, D, C        G, E, D, C, C, F
+G, D, C, F, F, E        F, D, C, G, G, E        G, C, D, E, E, F        G, E, C, D, D, F        G, E, F, C, C, D
+G, E, C, F, F, D        F, E, C, G, G, D        G, F, D, E, E, C        G, F, E, D, D, C        G, F, E, C, C, D
+G, E, D, F, F, C        F, E, D, G, G, C        G, F, C, E, E, D        G, F, C, D, D, E        G, F, D, C, C, E
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1, 1, 1, 1, 2
+C, D, E, F, G, G        C, D, E, G, F, F        C, D, F, G, E, E        C, E, F, G, D, D        D, E, F, G, C, C
+C, D, F, E, G, G        C, D, G, E, F, F        C, D, G, F, E, E        C, E, G, F, D, D        D, E, G, F, C, C 
+C, E, D, F, G, G        C, E, G, D, F, F        C, F, G, D, E, E        C, F, G, E, D, D        D, F, E, G, C, C
+C, E, F, D, G, G        C, E, D, G, F, F        C, F, D, G, E, E        C, F, E, G, D, D        D, F, G, E, C, C
+C, F, E, D, G, G        C, G, E, D, F, F        C, G, D, F, E, E        C, G, E, F, D, D        D, G, E, F, C, C
+C, F, D, E, G, G        C, G, D, E, F, F        C, G, F, D, E, E        C, G, F, E, D, D        D, G, F, E, C, C
+
+
+D, C, E, F, G, G        D, C, G, E, F, F        D, C, F, G, E, E        E, G, F, C, D, D        E, G, D, F, C, C
+D, C, F, E, G, G        D, C, E, G, F, F        D, C, G, F, E, E        E, G, C, F, D, D        E, G, F, D, C, C
+D, E, F, C, G, G        D, E, G, C, F, F        D, F, G, C, E, E        E, F, C, G, D, D        E, F, G, D, C, C
+D, E, C, F, G, G        D, E, C, G, F, F        D, F, C, G, E, E        E, F, G, C, D, D        E, F, D, G, C, C
+D, F, C, E, G, G        D, G, E, C, F, F         D, G, C, F, E, E        E, C, G, F, D, D        E, D, F, G, C, C
+D, F, E, C, G, G        D, G, C, E, F, F        D, G, F, C, E, E        E, C, F, G, D, D        E, D, G, F, C, C
+
+
+E, C, D, F, G, G        E, C, D, G, F, F        F, G, C, D, E, E        F, G, C, E, D, D        F, G, D, E, C, C
+E, C, F, D, G, G        E, C, G, D, F, F        F, G, D, C, E, E        F, G, E, C, D, D        F, G, E, D, C, C
+E, D, C, F, G, G        E, D, G, C, F, F        F, D, G, C, E, E        F, E, C, G, D, D        F, D, G, E, C, C
+E, D, F, C, G, G        E, D, C, G, F, F        F, D, C, G, E, E        F, E, G, C, D, D        F, D, E, G, C, C
+E, F, D, C, G, G        E, G, C, D, F, F        F, C, D, G, E, E        F, C, G, E, D, D        F, E, D, G, C, C
+E, F, C, D, G, G        E, G, D, C, F, F        F, C, G, D, E, E        F, C, E, G, D, D        F, E, G, D, C, C
+
+
+F, E, C, D, G, G        G, C, D, E, F, F        G, F, D, C, E, E        G, F, E, C, D, D        G, F, D, E, C, C
+F, E, D, C, G, G        G, C, E, D, F, F        G, F, C, D, E, E        G, F, C, E, D, D        G, F, E, D, C, C
+F, C, E, D, G, G        G, D, C, E, F, F        G, D, C, F, E, E        G, E, F, C, D, D        G, E, D, F, C, C
+F, C, D, E, G, G        G, D, E, C, F, F        G, D, F, C, E, E        G, E, C, F, D, D        G, E, F, D, C, C
+F, D, E, C, G, G        G, E, C, D, F, F        G, C, F, D, E, E        G, C, E, F, D, D        G, D, E, F, C, C
+F, D, C, E, G, G        G, E, D, C, F, F        G, C, D, F, E, E        G, C, F, E, D, D        G, D, F, E, C, C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2, 1, 1, 1, 1
+C, C, D, E, F, G        D, D, C, E, F, G        E, E, C, D, F, G        F, F, C, D, E, G        G, G, C, D, E, F
+C, C, E, D, F, G        D, D, E, C, F, G        E, E, D, C, F, G        F, F, D, C, E, G        G, G, D, C ,E, F
+C, C, E, F, D, G        D, D, C, F, E, G        E, E, D, F, C, G        F, F, C, E, D, G        G, G, C, E, D, F
+C, C, F, E, D, G        D, D, F, C, E, G        E, E, F, D, C, G        F, F, E, C, D, G        G, G, E, C, D ,F
+C, C, F, D, E, G        D, D, F, E, C, G        E, E, F, C, D, G        F, F, E, D, C, G        G, G, E, D, C, F
+C, C, D, F, E, G        D, D, E, F, C, G        E, E, C, F, D, G        F, F, D, E, C, G        G, G, D, E, C, F
+        
+C, C, D, E, G, F        D, D, C, E, G, F        E, E, C, D, G, F        F, F, D, C, G, E        G, G, D, C, F, E
+C, C, E, D, G, F        D, D, E, C, G, F        E, E, D, C, G, F        F, F, C, D, G, E        G, G, C, D, F, E
+C, C, D, G, E, F        D, D, G, C, E, F        E, E, C, G, D, F        F, F, C, G, D, E        G, G, C, F, D, E
+C, C, G, D, E, F        D, D, C, G, E, F        E, E, G, C, D, F        F, F, G, C, D, E        G, G, F, C, D, E 
+C, C, G, E, D, F        D, D, G, E, C, F        E, E, D, G, C, F        F, F, G, D, C, E        G, G, F, D, C, E
+C, C, E, G, D, F        D, D, E, G, C, F        E, E, G, D, C, F        F, F, D, G, C, E        G, G, D, F, C, E
+
+
+C, C, D, F, G, E        D, D, C, G, F, E        E, E, C, G, F, D        F, F, C, G, E, D        G, G, C, F, E, D
+C, C, F, D, G, E        D, D, G, C, F, E        E, E, G, C, F, D        F, F, G, C, E, D        G, G, F, C, E, D
+C, C, D, G, F, E        D, D, C, F, G, E        E, E, C, F, G, D        F, F, G, E, C, D        G, G, F, E, C, D
+C, C, G, D, F, E        D, D, F, C, G, E        E, E, F, C, G, D        F, F, E, G, C, D        G, G, E, F, C, D
+C, C, G, F, D, E        D, D, F, G, C, E        E, E, F, G, C, D        F, F, C, E, G, D        G, G, E, C, F, D
+C, C, F, G, D, E        D, D, G, F, C, E        E, E, G, C, C, D        F, F, E, C, G, D        G, G, C, E, F, D
+
+
+C, C, F, G, E, D        D, D, G, F, E, C        E, E, G, F, D, C        F, F, G, E, D, C        G, G, F, E, D, C
+C, C, G, F, E, D        D, D, F, G, E, C        E, E, F, G, D, C        F, F, E, G, D, C        G, G, E, F, D, C
+C, C, G, E, F, D        D, D, G, E, F, C        E, E, G, D, F, C        F, F, G, D, E, C        G, G, F, D, E, C
+C, C, E, G, F, D        D, D, E, G, F, C        E, E, D, G, F, C        F, F, D, G, E, C        G, G, D, F, E, C
+C, C, E, F, G, D        D, D, E, F, G, C        E, E, D, F, G, C        F, F, D, E, G, C        G, G, D, E, F, C
+C, C, G, E, G, D        D, D, F, E, G, C        E, E, F, D, G, C        F, F, E, D, G, C        G, G, E, D, F, C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1, 3, 1, 1, 1
+C, D, D, D, E, F, G                D, C, C, C, E, F, G                E, C, C, C, D, F, G
+C, D, D, D, F, E, G                D, C, C, C, F, E, G
+C, D, D, D, E, G, F                D, C, C, C, E, G, F                
+C, D, D, D, G, E, F                D, C, C, C, G, E, F                
+C, D, D, D, G, F, E                D, C, C, C, G, F, E                
+C, D, D, D, F, G, E                D, C, C, C, F, G, E                
+
+
+C, E, E, E, G, F, D
+C, E, E, E, F, G, D
+C, E, E, E, G, D, F
+C, E, E, E, D, G, F
+C, E, E, E, D, F, G
+C, E, E, E, F, D, G
+
+
+C, F, F, F, E, D, G
+C, F, F, F, D, E, G
+C, F, F, F, D, G, E
+C, F, F, F, G, D, E
+C, F, F, F, G, E, D
+C, F, F, F, E, G, D
+
+
+C, G, G, G, F, E, D
+C, G, G, G, E, F, D
+C, G, G, G, F, D, E
+C, G, G, G, D, F, E
+C, G, G, G, D, E, F
+C, G, G, G, E, D, F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1, 3, 1, 1, 1 (cont)
+F, C, C, C, D, E, G                G, C, C, C, D, E, F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1, 1, 3, 1, 1
+C, D, E, E, E, F, G                C, E, D, D, D, F, G                C, D, F, F, F, E, G
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1, 1, 3, 1, 1 (cont)
+C, D, G, G, G, E, F                D, E, C, C, C, F, G
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1, 1, 1, 3, 1
+C, D, E, F, F, F, G                C, D, E, G, G, G, F                C, D, F, E, E, E, G
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1, 1, 1, 3, 1 (cont)
+C, E, F, D, D, D, G                E, F, G, C, C, C, D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1, 1, 1, 1, 3
+C, D, E, F, G, G, G                C, D, E, G, F, F, F                C, D, F, G, E, E, E
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1, 1, 1, 1, 3 (cont)
+C, E, F, G, D, D ,D                D, E, F, G, C, C, C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3, 1, 1, 1, 1
+C, C, C, D, E, F, G                D, D, D, C, E, F, G                E, E, E, C, D, F, G
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3, 1, 1, 1, 1 (cont)
+F, F, F, C, D, E, G                G, G, G, C, D, E, F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOLK SONG II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOLK SONG IN CONTEXT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ddd
+[a]The dev team is working on a system to grade the user's performance. We can discuss ideas at our next meeting.
+[b]_Marked as resolved_
+[c]_Re-opened_
+Sounds good...thx
+[d]Can we create an option for the learner to "change the sound" of the glockenspiel to create multiple options , such as "piano sound", "trumpet sound", etc.
+[e]This is a pretty significant feature, and will take considerable time to develop. Creating a local multiplayer mode to be played on one tablet that could be passed between players would be an easier implementation of this. We will have to review what features we can add after the completion of Mode I. That is not to say that a p2p system is impossible, but it is probably an unrealistic goal given our timeframe of only a few months.
+[f]I understand...even doing what you're suggesting, the interacting between learners on the same tablet, would be cool and great for the demo...thx
