@@ -2,11 +2,11 @@
 <resources>
 
     <string name="app_name">GlockenGame</string>
-    <string name="edit_message">Enter a Message</string>
+    <string name="edit_message">What sequence do you want? (primer, beginner, intermediate)</string>
     <string name="button_send">Send</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_display_message">My Message</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello friend!</string>
 </resources>
