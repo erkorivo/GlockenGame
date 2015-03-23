@@ -7,6 +7,9 @@ import android.view.MenuItem;
 import android.content.Intent;
 import android.widget.TextView;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
 
 public class DisplayMessageActivity extends ActionBarActivity {
 
@@ -19,6 +22,29 @@ public class DisplayMessageActivity extends ActionBarActivity {
         textView.setTextSize(40);
         textView.setText(message);
         setContentView(textView);
+
+        // begin sequence deserialization
+        JSONObject jObj = null;
+        jObj = new JSONObject();
+
+
+        String str = jObj.toString();
+        textView.setTextSize(14);
+        textView.setText(str);
+        setContentView(textView);
+//        Sequence sequence = new Sequence();
+//        try {
+//            sequence.setRhythm(jObj.getJSONObject("rythym"));
+//        } catch (JSONException e) {
+//            e.printStackTrace();
+//        }
+//        try {
+//            sequence.setNotes(jObj.getJSONObject("notes"));
+//        } catch (JSONException e) {
+//            e.printStackTrace();
+//        }
+
+
     }
 
     @Override
