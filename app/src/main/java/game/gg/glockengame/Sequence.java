@@ -6,15 +6,19 @@ import org.json.JSONObject;
  * Created by erik on 3/22/15.
  */
 public class Sequence {
-    private float[][] rhythm;
+    private int[][] rhythm;
     private String[][] notes;
 
-
-    public void setRhythm(JSONObject rhythm) {
-
+    public void newSeq(int[][] nums, String[][] notes) {
+        this.rhythm = nums;
+        this.notes = notes;
     }
 
-    public void setNotes(JSONObject notes) {
+    public void setRhythm(int[][] rhythm) {
+        this.rhythm = rhythm;
+    }
 
+    public void setNotes(String[][] notes) {
+        this.notes = notes;
     }
 }
