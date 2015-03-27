@@ -1,0 +1,24 @@
+Hi there,
+
+Here is my first iteration of the Glockenspiel game:
+-	For now, our game only supports the 10” device (Nexus 10, my Samsung Galaxy Note 10.1, etc…)
+-	All buttons are customized and are implemented with one sample mp3 file (only waiting for mp3 files from Dr. Kelland)
+-	Erik will be continue working with playing patterns from this activity
+-	I will be working on the main menu activity.
+-	Below is the setup for AVD to test run this project
+Our plan at the moment is to make a demo version of this game where the player can selects the level and start playing the patterns. Please let me know your opinions/suggestions regarding this iteration.
+
+
+
+Setup AVD (Android Virtual Device):
+1.	Device: 	Nexus 10 (10.055”, 2560 x 1600: xhdpi)
+2.	Target: 	Android 4.1.2 – API Level 16
+3.	CPU/ABI: 	ARM (armeabi-v7a)
+4.	Keyboard: 	checked
+5.	Skin:		No skin
+6.	Front Camera: None
+7.	Back Camera: None
+8.	Memory Options: Leave as default
+9.	Internal Storage: Leave as default
+10.	SD Card: 	Leave as default
+11.	Emulation Options: checked “Use Host GPU”
