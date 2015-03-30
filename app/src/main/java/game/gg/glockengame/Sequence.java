@@ -2,23 +2,34 @@ package game.gg.glockengame;
 
 import org.json.JSONObject;
 
-/**
- * Created by erik on 3/22/15.
- */
-public class Sequence {
-    private int[][] rhythm;
-    private String[][] notes;
+import java.util.ArrayList;
 
-    public void newSeq(int[][] nums, String[][] notes) {
+/**
+ * Updated by erik on 3/29/15.
+ */
+public class Sequence extends ArrayList {
+    private ArrayList<Object> rhythm;
+    private ArrayList<String> notes;
+
+    public Sequence(ArrayList<Object> nums, ArrayList<String> notes) {
         this.rhythm = nums;
         this.notes = notes;
     }
 
-    public void setRhythm(int[][] rhythm) {
+    public void setRhythm(ArrayList<Object> rhythm) {
         this.rhythm = rhythm;
     }
 
-    public void setNotes(String[][] notes) {
+    public String getRhythms(){
+        return String.valueOf(rhythm);
+    }
+
+
+    public void setNotes(ArrayList<String> notes) {
         this.notes = notes;
+    }
+
+    public String getNotes(){
+        return String.valueOf(notes);
     }
 }

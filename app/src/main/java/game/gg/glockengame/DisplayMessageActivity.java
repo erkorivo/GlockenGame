@@ -3,19 +3,24 @@ package game.gg.glockengame;
 import android.content.res.AssetManager;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.content.Intent;
 import android.widget.TextView;
 
+import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.ArrayList;
 
 
 public class DisplayMessageActivity extends ActionBarActivity {
+
+    private ArrayList<Sequence> sequences;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,51 +32,74 @@ public class DisplayMessageActivity extends ActionBarActivity {
         textView.setText(message);
         setContentView(textView);
 
-
         // get sequence (and display, for testing)
         AssetManager assetManager = getAssets();
         InputStream input;
+        String json = "";
         try {
             input = assetManager.open("sequences/" + message + ".json");
             int size = input.available();
             byte[] buffer = new byte[size];
             input.read(buffer);
             input.close();
-
-            //byte buffer into a string;
-            String json = new String(buffer);
-            TextView jsonView = new TextView(this);
-            jsonView.setTextSize(14);
-            jsonView.setText(json);
-            setContentView(jsonView);
+            json = new String(buffer);  //byte buffer into a string
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+        TextView jsonView = new TextView(this);
+//        // raw JSON view
+//        jsonView.setTextSize(14);
+//        jsonView.setText(json);
+//        setContentView(jsonView);
+
+        sequences = new ArrayList();
+
         // begin sequence deserialization
-//        JSONObject jObj = null;
-//        jObj = new JSONObject();
-
-
-//        String str = jObj.toString();
-//        textView.setTextSize(14);
-//        textView.setText(str);
-//        setContentView(textView);
-
-        Sequence sequence = new Sequence();
-        /*
         try {
-        sequence.setRhythm(jObj.getJSONObject("rhythm"));
-        } catch (JSONException e) {
-        e.printStackTrace();
-        }
-        try {
-        sequence.setNotes(jObj.getJSONObject("notes"));
-        } catch (JSONException e) {
-        e.printStackTrace();
-        }
-        */
+            JSONObject jObject = new JSONObject(json);
+            JSONArray jSequence = jObject.getJSONArray("sequence");
+            String len = "Stringified JSON array:\n";
+            // sequentially get JSON data
+            Log.d("begin array deserial.", "beginning first loop");
+            for (int i = 0; i < jSequence.length(); i++) {
+                JSONObject jRealObject = jSequence.getJSONObject(i);
+                JSONArray jRhythmArray = jRealObject.getJSONArray("rhythm");
+                JSONArray jNotesArray = jRealObject.getJSONArray("notes");
+                len +="\trhythms " + i + ": " + jRhythmArray + "\n";
+                len +="\tnotes " + i + ": " + jNotesArray + "\n";
 
+                //parse each array for individual lists
+                ArrayList<Object> rhythms = new ArrayList<Object>();
+                ArrayList<String> notes = new ArrayList<String>();
+                if (jRhythmArray != null) {
+                    for (int j=0;j<jRhythmArray.length();j++){
+                        rhythms.add(jRhythmArray.get(j).toString());
+                    }
+                }
+                if (jNotesArray != null) {
+                    for (int j=0;j<jNotesArray.length();j++){
+                        notes.add(jNotesArray.get(j).toString());
+                    }
+                }
+                Sequence seq = new Sequence(rhythms, notes);
+                sequences.add(seq);
+            }
 
+            len += "\n\tdone entering info. Check our sequences\n";
+
+            // print all sequence data for debugging
+            for (Sequence s : sequences) {
+                len += "\t\trhythms: " + s.getRhythms() + "\n";
+                len += "\t\tnotes: " + s.getNotes() + "\n\n";
+            }
+
+            jsonView.setTextSize(14);
+            jsonView.setText(len);
+            setContentView(jsonView);
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
     }
 
     @Override
